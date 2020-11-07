@@ -56,4 +56,4 @@
 ./Faster_RCNN/Faster_RCNN/Resultados/Logs_TensorBoard_Pets/events.out.tfevents.1603861791.DESKTOP-PK844R3
 ./Faster_RCNN/Resultados/Logs_TensorBoard_Coco/events.out.tfevents.1604039012.DESKTOP-PK844R3
 ./Faster_RCNN/Resultados/Logs_TensorBoard_Pets/events.out.tfevents.1603861791.DESKTOP-PK844R3
-/.idea/*
+./Faster_RCNN/.idea/*
